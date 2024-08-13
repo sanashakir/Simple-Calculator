@@ -1,5 +1,5 @@
 {
-  "name": "cs15-simple-calculator",
+  "name": "run-simple-calculator",
   "version": "1.0.0",
   "description": "A simple calculator with typeScript, node.js, inquirer.",
   "main": "index.js",
